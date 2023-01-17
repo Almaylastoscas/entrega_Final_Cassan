@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zapatilla Nike pro",
+    "precio": 5200,
+    "img": "./imagenes/img01.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatilla Nike Static",
+    "precio": 9333,
+    "img": "./imagenes/img02.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatilla Nike XWM",
+    "precio": 4587,
+    "img": "./imagenes/img03.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatilla Nike pro Ultra",
+    "precio": 6792,
+    "img": "./imagenes/img01.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Zapatilla Nike Dport",
+    "precio": 7980,
+    "img": "./imagenes/img05.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Zapatilla Nike pro",
+    "precio": 7390,
+    "img": "./imagenes/img06.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Zapatilla Nike Sport",
+    "precio": 8920,
+    "img": "./imagenes/img07.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Zapatilla Nike Sport max",
+    "precio": 3800,
+    "img": "./imagenes/img08.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Zapatilla Nike pro Future",
+    "precio": 5900,
+    "img": "./imagenes/img09.jpg",
+    "cantidad": 1
+  }
+]
